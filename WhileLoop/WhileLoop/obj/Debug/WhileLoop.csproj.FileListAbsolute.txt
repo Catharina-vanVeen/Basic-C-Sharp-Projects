@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
