@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\bin\Debug\Assignment231.exe.config
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\bin\Debug\Assignment231.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\bin\Debug\Assignment231.pdb
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\obj\Debug\Assignment231.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\obj\Debug\Assignment231.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\obj\Debug\Assignment231.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment231\Assignment231\obj\Debug\Assignment231.pdb
