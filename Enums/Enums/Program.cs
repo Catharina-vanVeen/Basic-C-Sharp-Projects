@@ -29,7 +29,7 @@ namespace Enums
         public enum DayOfTheWeek
         {
             Monday,
-            Tueday,
+            Tuesday,
             Wednesday,
             Thursday,
             Friday,
