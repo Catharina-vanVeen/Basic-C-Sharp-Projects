@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int ID { get; set; }
+        public List<T> Things { get; set; }
         public override void SayName()
         {
             Console.WriteLine("Name: " + FistName + " " + LastName);
@@ -20,12 +21,12 @@ namespace AbstractClass
             Console.WriteLine("I have had it. I quit!");
         }
 
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
         {
             bool isSame = employee1.ID == employee2.ID;
             return isSame;
         }
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee<T> employee1, Employee<T> employee2)
         {
             bool isDifferent = employee1.ID != employee2.ID;
             return isDifferent;

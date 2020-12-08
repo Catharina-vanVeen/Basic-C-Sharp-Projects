@@ -16,17 +16,30 @@ namespace AbstractClass
             //IQuittable quitter = new Employee();
             //quitter.Quit();
 
-            Employee employeeA = new Employee() { FistName = "John", LastName = "Doe", ID = 999 };
-            Employee employeeB = new Employee() { FistName = "Chris", LastName = "Smith", ID = 999 };
-            Employee employeeC = new Employee() { FistName = "John", LastName = "Doe", ID = 888 };
-            if (employeeA == employeeB)
+            Employee<string> employeeA = new Employee<string>() { FistName = "John", LastName = "Doe", ID = 999, Things = new List<string> { "Apple", "Pear", "Banana" } };
+            Employee<int> employeeB = new Employee<int>() { FistName = "Chris", LastName = "Smith", ID = 999, Things = new List<int> { 1, 5, 10, 50 } };
+
+            foreach (string thing in employeeA.Things)
             {
-                Console.WriteLine("employeeA and EmployeeB are the same");
+                Console.WriteLine(thing);
             }
-            if (employeeA != employeeC)
+
+            foreach (int thing in employeeB.Things)
             {
-                Console.WriteLine("employeeA and EmployeeC are not the same");
+                Console.WriteLine(thing);
             }
+
+
+
+            //Employee<string> employeeC = new Employee<string>() { FistName = "John", LastName = "Doe", ID = 888 };
+            //if (employeeA == employeeB)
+            //{
+            //    Console.WriteLine("employeeA and EmployeeB are the same");
+            //}
+            //if (employeeA != employeeC)
+            //{
+            //    Console.WriteLine("employeeA and EmployeeC are not the same");
+            //}
             Console.ReadKey();
         }
     }
