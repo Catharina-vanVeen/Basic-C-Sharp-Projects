@@ -26,8 +26,7 @@ namespace AbstractClass
 
             foreach (int thing in employeeB.Things)
             {
-                Console.WriteLine(thing);
-            }
+                Console.WriteLine(thing); 
 
 
 
