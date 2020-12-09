@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe.config
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.pdb
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.exe
+C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.pdb
