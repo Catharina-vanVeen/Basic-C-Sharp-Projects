@@ -15,7 +15,7 @@ namespace DateAndTime
             Console.WriteLine("Please provide number of hours");
             double hours = Convert.ToDouble(Console.ReadLine());
             DateTime future = now.AddHours(hours);
-            Console.WriteLine(future.ToString("H:mm:ss"));
+            Console.WriteLine(future.ToString("T"));
 
             Console.ReadKey();
         }
