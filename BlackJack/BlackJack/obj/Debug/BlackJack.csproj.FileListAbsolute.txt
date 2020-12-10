@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\bin\Debug\Casino.dll
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\bin\Debug\Casino.pdb
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete

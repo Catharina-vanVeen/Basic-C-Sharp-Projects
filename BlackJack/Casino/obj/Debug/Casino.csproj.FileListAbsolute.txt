@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\bin\Debug\Casino.dll
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\bin\Debug\Casino.pdb
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\obj\Debug\Casino.dll
+C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJack\Casino\obj\Debug\Casino.pdb
