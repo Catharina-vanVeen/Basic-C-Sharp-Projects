@@ -1,6 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\bin\Debug\MethodWithOptionalParameter.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\bin\Debug\MethodWithOptionalParameter.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\bin\Debug\MethodWithOptionalParameter.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\obj\Debug\MethodWithOptionalParameter.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\obj\Debug\MethodWithOptionalParameter.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodWithOptionalParameter\MethodWithOptionalParameter\obj\Debug\MethodWithOptionalParameter.pdb

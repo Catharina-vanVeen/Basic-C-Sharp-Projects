@@ -1,7 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csprojAssemblyReference.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.pdb

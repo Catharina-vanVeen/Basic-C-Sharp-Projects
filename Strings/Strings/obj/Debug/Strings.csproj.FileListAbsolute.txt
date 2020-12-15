@@ -1,7 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.pdb

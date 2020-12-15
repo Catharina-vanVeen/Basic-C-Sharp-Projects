@@ -1,6 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.pdb

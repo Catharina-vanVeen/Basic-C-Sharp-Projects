@@ -1,6 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\bin\Debug\Assignment236.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\bin\Debug\Assignment236.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\bin\Debug\Assignment236.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\obj\Debug\Assignment236.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\obj\Debug\Assignment236.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment236\Assignment236\obj\Debug\Assignment236.pdb

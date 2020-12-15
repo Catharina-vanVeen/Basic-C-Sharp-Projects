@@ -1,7 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\bin\Debug\Assignment310.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\bin\Debug\Assignment310.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\bin\Debug\Assignment310.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\obj\Debug\Assignment310.csprojAssemblyReference.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\obj\Debug\Assignment310.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\obj\Debug\Assignment310.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\Assignment310\Assignment310\obj\Debug\Assignment310.pdb

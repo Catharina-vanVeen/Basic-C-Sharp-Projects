@@ -1,7 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\bin\Debug\MethodOverloading.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\bin\Debug\MethodOverloading.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\bin\Debug\MethodOverloading.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\obj\Debug\MethodOverloading.csprojAssemblyReference.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\obj\Debug\MethodOverloading.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\obj\Debug\MethodOverloading.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\MethodOverloading\MethodOverloading\obj\Debug\MethodOverloading.pdb

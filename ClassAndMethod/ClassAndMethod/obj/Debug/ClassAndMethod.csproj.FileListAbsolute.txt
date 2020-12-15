@@ -1,7 +1,0 @@
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csprojAssemblyReference.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.exe
-C:\Users\Owner\Documents\GitHub Catharina\Basic-C-Sharp-Projects\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
