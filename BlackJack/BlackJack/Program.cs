@@ -46,7 +46,7 @@ namespace BlackJack
             {
                 Player player = new Player(playerName, bank);
                 player.Id = Guid.NewGuid();
-                using (StreamWriter file = new StreamWriter(@"C:\Users\Owner\Documents\Bootcamp\Tech Academy\Basic_C#_Programs\BlackJackLogs\log.txt", true))//true is for 'append'
+                using (StreamWriter file = new StreamWriter(@".\BlackJackLog.txt", true))//true is for 'append'
                 {
                     file.WriteLine(player.Id);
                 }
